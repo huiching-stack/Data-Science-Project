@@ -28,3 +28,6 @@ This project focuses on extracting historical stock price and quarterly revenue 
 2. Open the notebook in Jupyter Notebook or JupyterLab:
    ```bash
    jupyter notebook "Revenue Data and Building a Dashboard.ipynb"
+
+## 🙏 Acknowledgments
+- IBM Data Science Professional Certificate — Developed as part of the Python Project for Data Science course curriculum.
