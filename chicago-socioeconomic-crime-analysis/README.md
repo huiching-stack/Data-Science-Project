@@ -14,3 +14,6 @@ This project analyzes multi-sector open data from the City of Chicago, combining
 * Extracted high-poverty community areas using `ORDER BY` and `LIMIT`.
 * Identified crime-prone community areas via `GROUP BY`, `COUNT(*)`, and aggregate filtering.
 * Leveraged **subqueries** to link crime metrics with socio-economic hardship indices.
+
+## 🙏 Acknowledgments
+- IBM Data Science Professional Certificate — Developed as part of the Python Project for Data Science course curriculum.
