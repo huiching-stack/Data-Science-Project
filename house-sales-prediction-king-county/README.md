@@ -13,5 +13,5 @@ This repository contains the final project for the IBM Data Analyst / Machine Le
 * **Language:** Python[cite: 3]
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib[cite: 3]
 
-🙏 Acknowledgments
-IBM Data Science Professional Certificate — Developed as part of the Python Project for Data Science course curriculum.
+## 🙏 Acknowledgments
+- IBM Data Science Professional Certificate — Developed as part of the Python Project for Data Science course curriculum.
