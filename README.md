@@ -7,5 +7,4 @@ Welcome to my data science portfolio repository! I am an aspiring data scientist
 ## 🛠️ Core Skills & Tools
 * **Languages:** Python
 * **Data Processing & Analysis:** Pandas, NumPy
-* **Web Extraction:** BeautifulSoup, Requests
 * **Version Control:** Git & GitHub
