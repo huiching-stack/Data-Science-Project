@@ -29,6 +29,10 @@ The interactive Dash application offers two report types:
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
 
+```
+
+---
+
 ## 📈 Data Source
 The dataset used in this project represents historical automobile sales, pricing, consumer confidence indices, GDP figures, and unemployment metrics sourced via Skills Network Cloud Object Storage.
 
