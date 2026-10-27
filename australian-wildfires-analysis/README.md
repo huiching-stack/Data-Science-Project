@@ -20,6 +20,7 @@ The dataset used in this project is **Historical Wildfires**, which records fire
 - **Pandas & NumPy** – For data wrangling, cleaning, and manipulation.
 - **Matplotlib & Seaborn** – For statistical plotting and data visualization (line graphs, bar plots).
 - **Folium** – For geographical mapping and spatial visualization.
+- **Plotly & Dash** – For building the interactive web application dashboard.
 
 ## 🚀 Key Tasks & Insights
 1. **Time-Series Analysis of Fire Area:** Tracked the average estimated fire area over time, identifying significant peaks (notably between 2010 and 2013, corresponding to major historical wildfire events in Australia).
@@ -44,3 +45,20 @@ Australia_Wildfires_Project/
 │
 ├── requirements.txt                    # Required Python packages
 └── README.md                           # Project documentation
+```
+
+---
+
+## ⚙️ Installation & Running the Project
+
+1. **Clone or download** this repository.
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run Part 1 (Notebook):** Open Jupyter Notebook or Jupyter Lab and execute cells in `notebooks/Wildfire_Analysis_Part1.ipynb`.
+4. **Run Part 2 (Dash App):** 
+   ```bash
+   python app/Dash_wildfire_3.py
+   ```
+   Then open `http://127.0.0.1:8050/` in your web browser.
