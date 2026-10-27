@@ -33,23 +33,6 @@ The interactive Dash application offers two report types:
 
 ---
 
-## ⚙️ Installation & Running the Project
-
-# 1. Clone the repository and enter the directory
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
-
-# 2. Install the required dependencies
-pip install -r requirements.txt
-
-# (Alternative: if you don't have a requirements.txt, install manually)
-pip install dash pandas plotly requests matplotlib seaborn folium
-
-# 3. Run the Dash Application
-python app.py
-
----
-
 ## 📈 Data Source
 The dataset used in this project represents historical automobile sales, pricing, consumer confidence indices, GDP figures, and unemployment metrics sourced via Skills Network Cloud Object Storage.
 
