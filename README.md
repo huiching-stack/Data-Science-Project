@@ -5,6 +5,6 @@ Welcome to my data science portfolio repository! I am an aspiring data scientist
 ---
 
 ## 🛠️ Core Skills & Tools
-* **Languages:** Python
+* **Languages:** Python, SQL
 * **Data Processing & Analysis:** Pandas, NumPy
 * **Version Control:** Git & GitHub
