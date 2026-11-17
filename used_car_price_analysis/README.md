@@ -6,8 +6,7 @@ This project explores a used car pricing dataset (`used_car_price_analysis.csv`)
 ---
 
 ## Repository Structure
-* `notebooks/used_car_price_analysis.ipynb` – Complete Jupyter Notebook containing data preprocessing, visualizations, and regression modeling.
-* `prompts/genai_prompts_log.md` – Documentation of the Generative AI prompts used to generate and refine the Python code.
+* `used_car_price_analysis.ipynb` – Complete Jupyter Notebook containing data preprocessing, visualizations, and regression modeling.
 * `requirements.txt` – Required Python libraries to run the notebook locally.
 
 ---
